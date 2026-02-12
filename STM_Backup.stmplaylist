@@ -1,0 +1,77 @@
+{
+  "playlist": [
+    {
+      "name": "ออดทำความสะอาด มีเสียง",
+      "url": "sound/ออดทำความสะอาด มีเสียงครู.mp3",
+      "isServerFile": true,
+      "start": "0.0",
+      "end": "11.10",
+      "scheduledTimes": [
+        "07:31"
+      ],
+      "volume": 100,
+      "pauseBeforePlay": false
+    },
+    {
+      "name": "เพลงแปรงฟัน",
+      "url": "sound/เพลงแปรงฟัน.mp3",
+      "isServerFile": true,
+      "start": "0.0",
+      "end": "3.33",
+      "scheduledTimes": [
+        "12:15"
+      ],
+      "volume": 100,
+      "pauseBeforePlay": false
+    },
+    {
+      "name": "เพลงชาติ",
+      "url": "sound/เพลงชาติ.mp3",
+      "isServerFile": true,
+      "start": "0.06",
+      "end": "2.03",
+      "scheduledTimes": [
+        "07:43"
+      ],
+      "volume": 100,
+      "pauseBeforePlay": false
+    },
+    {
+      "name": "เพลงชาติ",
+      "url": "sound/เพลงชาติ.mp3",
+      "isServerFile": true,
+      "start": "0.06",
+      "end": "2.46",
+      "scheduledTimes": [
+        "07:43"
+      ],
+      "volume": 100,
+      "pauseBeforePlay": false
+    },
+    {
+      "name": "ออด",
+      "url": "sound/ออด.mp3",
+      "isServerFile": true,
+      "start": "0.0",
+      "end": "0.30",
+      "scheduledTimes": [
+        "06:30",
+        "07:30",
+        "08:30",
+        "09:30",
+        "10:30",
+        "11:30",
+        "12:30",
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30",
+        "17:30",
+        "18:30"
+      ],
+      "volume": 100,
+      "pauseBeforePlay": false
+    }
+  ],
+  "base64Data": {}
+}
